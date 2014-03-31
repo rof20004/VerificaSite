@@ -31,7 +31,7 @@ import javax.swing.SwingConstants;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 public class VerificaSite extends JFrame {
-
+    
 	private static final long serialVersionUID = 1L;
 	private static String HTTP = "http://";
 	private static String DS_OFFLINE = "OFFLINE";
